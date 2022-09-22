@@ -10,10 +10,7 @@
       }
     },
     "body": {
-      "loremParagraphs": {
-        "minLength": 10,
-        "maxLength": 100
-      }
+      
     },
     "tag": {
       "string": [
