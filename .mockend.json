@@ -9,8 +9,10 @@
         "maxLength": 20
       }
     },
-    "body": {string["dddddddddddddddd"]
-      
+    "body": { "string": [
+      "Thor",
+      "Loki"
+    ]
     },
     "tag": {
       "string": [
